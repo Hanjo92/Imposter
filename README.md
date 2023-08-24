@@ -8,11 +8,11 @@ Imposter shader sample
 
 폴리곤이 많은 오브젝트를 각도별로 캡쳐해 각도별 모습을 쿼드에 나타나게 해주는 쉐이더 및 캡쳐 관련 스크립트
 
-# Capture script : Script/ImposterTextureCreater.cs
+# [Capture script : Script/ImposterTextureCreater.cs](https://github.com/Hanjo92/Imposter/blob/main/Assets/Scripts/ImposterTextureCreater.cs)
 
-# Shader : Graphics/Shader/ImposterSampler
+# [Shader : Graphics/Shader/ImposterSampler](https://github.com/Hanjo92/Imposter/tree/main/Assets/Graphics/Shader)
 
-Blog link
+# Blog link
 1. https://seunghus.tistory.com/85
 2. https://seunghus.tistory.com/86
 3. https://seunghus.tistory.com/88
