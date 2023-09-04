@@ -1,5 +1,6 @@
 # Imposter
 Imposter shader sample
+Project : Unity 2021.3.18f1
 
 타 프로젝트 사용 시 URP 패키지 필요
 
